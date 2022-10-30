@@ -12,6 +12,7 @@
 		DC0ABF4E290E76F900C9CF25 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC0ABF4D290E76F900C9CF25 /* Preview Assets.xcassets */; };
 		DC0ABF56290E772500C9CF25 /* CustomTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0ABF55290E772500C9CF25 /* CustomTabBarView.swift */; };
 		DC0ABF58290E8B4A00C9CF25 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0ABF57290E8B4A00C9CF25 /* HomeView.swift */; };
+		DC0ABF5A290E942200C9CF25 /* TabCurve.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0ABF59290E942200C9CF25 /* TabCurve.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		DC0ABF4D290E76F900C9CF25 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DC0ABF55290E772500C9CF25 /* CustomTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarView.swift; sourceTree = "<group>"; };
 		DC0ABF57290E8B4A00C9CF25 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		DC0ABF59290E942200C9CF25 /* TabCurve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabCurve.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			children = (
 				DC0ABF55290E772500C9CF25 /* CustomTabBarView.swift */,
 				DC0ABF57290E8B4A00C9CF25 /* HomeView.swift */,
+				DC0ABF59290E942200C9CF25 /* TabCurve.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC0ABF58290E8B4A00C9CF25 /* HomeView.swift in Sources */,
+				DC0ABF5A290E942200C9CF25 /* TabCurve.swift in Sources */,
 				DC0ABF56290E772500C9CF25 /* CustomTabBarView.swift in Sources */,
 				DC0ABF47290E76F900C9CF25 /* CustomTabBarApp.swift in Sources */,
 			);
